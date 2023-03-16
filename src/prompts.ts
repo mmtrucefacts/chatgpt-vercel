@@ -1,8 +1,8 @@
 export default [
   {
-    desc: "I Can Do Math!",
+    desc: "OpenAI API Key",
     prompt:
-      "1 + 1"
+      "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"
   },
   {
     desc: "I Can Write Story’s!",
