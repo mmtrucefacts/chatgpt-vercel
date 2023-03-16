@@ -51,9 +51,6 @@ export default [
     desc: "I Can Write Code!",
     prompt:
       "How Do I Make A HTTPS In JavaScript?"
-  
   }
-                 
-             
-     
-                      
+  
+]
