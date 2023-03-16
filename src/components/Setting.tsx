@@ -18,7 +18,7 @@ export default function Setting(props: {
           }}
         >
           <button class="i-carbon:settings" />
-          <span ml-1>设置</span>
+          <span ml-1>Settings</span>
         </div>
         <div class="flex">
           <div
