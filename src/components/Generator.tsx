@@ -271,7 +271,7 @@ export default function () {
               }}
             >
               <button
-                title="Amongus"
+                title="You Don't Have A Key! Press / To Find Your Key And Imput Your Key In The Settings!"
                 onClick={() => handleButtonClick()}
                 class="i-carbon:send-filled text-5 mx-3 hover:text-slate-2"
               />
