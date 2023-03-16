@@ -52,7 +52,7 @@ export default [
     prompt:
       "How Do I Make A HTTPS In JavaScript?"
   
-]
+  }
                  
              
      
