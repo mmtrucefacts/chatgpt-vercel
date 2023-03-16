@@ -271,7 +271,7 @@ export default function () {
               }}
             >
               <button
-                title="发送"
+                title="Amongus"
                 onClick={() => handleButtonClick()}
                 class="i-carbon:send-filled text-5 mx-3 hover:text-slate-2"
               />
